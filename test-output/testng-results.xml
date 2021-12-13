@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-05T09:34:26 IST" name="Suite" finished-at="2021-12-05T09:34:39 IST" duration-ms="12217">
+    <groups>
+    </groups>
+    <test started-at="2021-12-05T09:34:26 IST" name="validatebar" finished-at="2021-12-05T09:34:33 IST" duration-ms="6569">
+      <class name="Academy.validateBar">
+        <test-method is-config="true" signature="initalize()[pri:0, instance:Academy.validateBar@1339e7aa]" started-at="2021-12-05T09:34:26 IST" name="initalize" finished-at="2021-12-05T09:34:33 IST" duration-ms="6297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method signature="basePageNavigation()[pri:0, instance:Academy.validateBar@1339e7aa]" started-at="2021-12-05T09:34:33 IST" name="basePageNavigation" finished-at="2021-12-05T09:34:33 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Academy.validateBar@1339e7aa]" started-at="2021-12-05T09:34:33 IST" name="teardown" finished-at="2021-12-05T09:34:33 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.validateBar -->
+    </test> <!-- validatebar -->
+    <test started-at="2021-12-05T09:34:34 IST" name="apptest" finished-at="2021-12-05T09:34:34 IST" duration-ms="2">
+    </test> <!-- apptest -->
+    <test started-at="2021-12-05T09:34:34 IST" name="validatetitle" finished-at="2021-12-05T09:34:39 IST" duration-ms="5055">
+      <class name="Academy.validateTitle">
+        <test-method is-config="true" signature="initalize()[pri:0, instance:Academy.validateTitle@c9d0d6]" started-at="2021-12-05T09:34:34 IST" name="initalize" finished-at="2021-12-05T09:34:38 IST" duration-ms="4742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method signature="basePageNavigation()[pri:0, instance:Academy.validateTitle@c9d0d6]" started-at="2021-12-05T09:34:38 IST" name="basePageNavigation" finished-at="2021-12-05T09:34:38 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method signature="validateHeader()[pri:0, instance:Academy.validateTitle@c9d0d6]" started-at="2021-12-05T09:34:38 IST" name="validateHeader" finished-at="2021-12-05T09:34:39 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeader -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Academy.validateTitle@c9d0d6]" started-at="2021-12-05T09:34:39 IST" name="teardown" finished-at="2021-12-05T09:34:39 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.validateTitle -->
+    </test> <!-- validatetitle -->
+  </suite> <!-- Suite -->
+</testng-results>
